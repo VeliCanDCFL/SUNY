@@ -1,0 +1,6 @@
+{
+  "name": "SUNY Hub Türkiye - ITU to Binghamton Dual Diploma Guide",
+  "description": "The comprehensive playbook and student platform for ITU SUNY dual-diploma students transitioning from Ayazağa to Binghamton University. Features 4-year academic roadmap, F-1 visa checklists, housing guides, budget calculator, and senior-to-junior marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
